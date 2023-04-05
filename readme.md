@@ -1,5 +1,5 @@
-## repo :: kind_of_pygames
-hi, this is the repo that i practice about pygames.   
+## repo :: kinds_of_pygames
+hi, this is the repo about pygames.   
 welcome to my repo and hope to enjoy it. thx!
 
 ---
